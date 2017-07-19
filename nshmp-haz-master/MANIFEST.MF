@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.1
+Created-By: ${manifest.created.by}
+Built-By: ${manifest.built.by}
+Main-Class: ${manifest.classes.main}
+Implementation-Version: ${version.number}-b${build.number}
+Built-Date: July 5 2017
+Class-Path: ${mf.classpath}
+

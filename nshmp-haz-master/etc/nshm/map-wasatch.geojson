@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [ -113.25, 39.0 ],
+            [ -110.75, 39.0 ],
+            [ -110.75, 42.5 ],
+            [ -113.25, 42.5 ],
+            [ -113.25, 39.0 ]
+          ]]
+      },
+      "properties": {
+        "spacing": 0.05,
+        "title": "Wasatch Front – WGUEP 2013"
+      }
+    }
+  ]
+}

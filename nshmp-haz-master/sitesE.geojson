@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.63, 41.88]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#ff0080",
+        "title": "Chicago IL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.19, 25.77]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#ff0080",
+        "title": "Miami FL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.03, 38.89]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#ff0080",
+        "title": "Washington DC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.25, 41.67]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#ff0080",
+        "title": "South Bend IN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.13, 40.00]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#ff0080",
+        "title": "Philadelphia PA"
+      }
+    }
+  ]
+}
